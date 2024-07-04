@@ -6,17 +6,17 @@ I'm a passionate Full Stack Developer with a keen interest in building scalable 
 **LinkedIn**: www.linkedin.com/in/akshat-vijayvergiya-3a3174210
 
 **Skills**
-**Front-End Development**
+**Front-End Development:-**
 HTML, CSS, JavaScript
 React
 Bootstrap, Material-UI
 
-**Back-End Development**
+**Back-End Development:-**
 Node.js, Express.js
 Java
 PHP
 
-**Database Management**
+**Database Management:-**
 MySQL
 MongoDB
 
