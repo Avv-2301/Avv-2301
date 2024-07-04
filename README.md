@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @Avv-2301
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mern Stack
+Hi, I'm **Akshat Vijayvergiya**!
+
+I'm a passionate Full Stack Developer with a keen interest in building scalable and efficient web applications. I love learning new technologies and applying them to solve real-world problems. My goal is to continuously grow as a developer and contribute to impactful projects.
+
+**Email**: akshatvijayvergiya64@gmail.com
+**LinkedIn**: www.linkedin.com/in/akshat-vijayvergiya-3a3174210
+
+**Skills**
+**Front-End Development**
+HTML, CSS, JavaScript
+React
+Bootstrap, Material-UI
+
+**Back-End Development**
+Node.js, Express.js
+Java
+PHP
+
+**Database Management**
+MySQL
+MongoDB
 
 
 <!---
