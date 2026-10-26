@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Abstract dark banner with neon teal and violet accents, displaying Akshat Vijayvergiya's name and full stack developer title" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Akshat Vijayvergiya</h1>
 <h3 align="center">Full Stack Developer | Exploring Generative AI</h3>
