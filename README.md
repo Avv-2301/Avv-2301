@@ -108,7 +108,6 @@ Feel free to connect about full-stack development, web applications, or GenAI le
 - [Portfolio](https://akshat-portfolio-flax.vercel.app/)
 - [Email](mailto:peakshatvijayvergiya23@gmail.com)
 - [GitHub](https://github.com/Avv-2301)
-- Phone: [+91 6377608367](tel:+916377608367)
 
 ---
 
