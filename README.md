@@ -1,140 +1,118 @@
-<!-- ======================= HEADER ======================= -->
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Abstract dark banner with neon teal and violet accents, displaying Akshat Vijayvergiya's name and full stack developer title" width="100%">
+</p>
 
-<h1 align="center">Hi 👋, I'm Akshat Vijayvergiya</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Backend Enthusiast | AI Explorer</h3>
+<h1 align="center">Hi, I'm Akshat Vijayvergiya</h1>
+<h3 align="center">Full Stack Developer | Exploring Generative AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avv-2301&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/avv-2301?label=Followers&style=social" alt="followers" />
+  Building responsive web applications, secure APIs, and AI-powered workflows.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Microservices+Architect;Backend+Specialist;Always+Learning+New+Technologies" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building **Gamer Vault Microservices Architecture**
-- 🌱 Exploring the world of **Artificial Intelligence & System Design**
-- 💬 Ask me about **React, Node.js, TypeScript, Microservices**
-- ⚡ Passionate about writing clean, scalable, production-ready code
-- 📫 Reach me at: **akshatvijayvergiya23@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/akshat-vijayvergiya-3a3174210/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" />
-</a>
+  <a href="https://github.com/Avv-2301">GitHub</a> ·
+  <a href="https://linkedin.com/in/akshatvijayvergiya">LinkedIn</a> ·
+  <a href="https://akshat-portfolio-flax.vercel.app/">Portfolio</a> ·
+  <a href="mailto:peakshatvijayvergiya23@gmail.com">Email</a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## About me
 
-## 💻 Languages
+I’m a Full Stack Developer at AvalonTribe Infotech in Rajasthan, India. My experience spans software implementation, application support, and web development. I translate client requirements into product configurations, workflows, and technical solutions, and build React and TypeScript interfaces backed by REST APIs.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+My work has included secure API development, third-party and LLM integrations, performance improvements, and refactoring legacy code. I’m currently learning Generative AI and exploring how it can support practical application workflows.
+
+[Download my resume](assets/Akshat_Vijayvergiya_Resume_FullStackDeveloper.pdf)
+
+## Tech stack
+
+**Languages**  
+Python · JavaScript · TypeScript · SQL
+
+**Frontend**  
+React.js · React Hooks · Component design · State management · HTML5 · CSS3
+
+**Backend & APIs**  
+Node.js · Express.js · RESTful APIs · REST/JSON · Third-party API integrations · Microservices architecture · OOP
+
+**Databases**  
+MySQL · Relational database design · Query optimization · MongoDB
+
+**AI & automation**  
+OpenAI API · LLM integration · Prompt engineering · AI-powered automation workflows
+
+**Tools, testing & security**  
+Git · GitHub · Docker · CI/CD pipelines · Postman · Jest · React Testing Library · Unit testing · Integration testing · JWT · OAuth 2.0 · RBAC · Secure coding · Data privacy principles · Code reviews · Agile/Scrum
+
+**Application support**  
+Production troubleshooting · Client onboarding · Training · System integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mysql,mongodb,docker,git,github,jest&perline=6" alt="Technology icons for Python, JavaScript, TypeScript, React, Node.js, Express, MySQL, MongoDB, Docker, Git, GitHub, and Jest">
 </p>
+
+## Current focus
+
+I’m focused on learning Generative AI. My practical experience includes OpenAI API integration and LLM-powered automation workflows, including prompt design for summarization.
+
+## Featured projects
+
+### AI-Powered Admin Dashboard
+
+An end-to-end admin dashboard built with reusable React.js and TypeScript components to support faster feature rollout. Includes Node.js REST APIs for dashboard data and admin workflows. Designed OpenAI API prompts for LLM-powered summarization, cutting task processing time by **40%**.
+
+**Stack:** React.js · TypeScript · Node.js · OpenAI API · REST APIs
+
+### Fintech Transaction & Rewards Platform
+
+Designed validated REST APIs with role-based access control and injection attack protection for **1,000+ user accounts**. Integrated MySQL and MongoDB data sources; the resume reports **100% data integrity**. Built reusable, performance-optimized React.js and TypeScript components for wallet management, deposits and withdrawals, and rewards modules.
+
+**Stack:** React.js · TypeScript · Node.js · Express.js · MySQL · MongoDB
+
+## GitHub activity
+
+Stats are rendered by third-party services and may occasionally be unavailable.
+
+<p>
+  <img src="https://stats.esing.dev/api/?username=Avv-2301&theme=dark" alt="GitHub profile statistics for Avv-2301">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Avv-2301&theme=dark" alt="GitHub contribution streak statistics for Avv-2301">
+</p>
+
+## Experience
+
+### Full Stack Developer · AvalonTribe Infotech
+Rajasthan, India · June 2024–Present
+
+- Translate client business requirements into product configurations, workflows, and technical implementation solutions.
+- Designed and implemented **20+ secure REST APIs** using JSON, improving data exchange reliability by **40%**.
+- Integrated the OpenAI API and LLM-based automation into production workflows, reducing manual processing time by **approximately 35%**.
+- Built **5+ responsive React.js and TypeScript interfaces**; improved frontend performance by **20%** using memoization and lazy loading.
+- Build React.js and TypeScript components integrated with backend APIs in Agile/Scrum sprint cycles.
+- Debugged and refactored legacy code using OOP practices, reducing bug recurrence by **approximately 20%**.
+- Participated in code reviews to improve maintainability and reusable code practices.
+
+### Software Developer Intern · Golden Eagle IT Technology
+Madhya Pradesh, India · January 2024–May 2024
+
+## Education
+
+- **Master of Computer Applications (MCA)** · Medi-Caps University, Indore, Madhya Pradesh · 2022–2024
+- **Bachelor of Computer Applications (BCA)** · Sangam University, Bhilwara, Rajasthan · 2019–2022
+
+## Connect
+
+Feel free to connect about full-stack development, web applications, or GenAI learning and projects.
+
+- [LinkedIn](https://linkedin.com/in/akshatvijayvergiya)
+- [Portfolio](https://akshat-portfolio-flax.vercel.app/)
+- [Email](mailto:peakshatvijayvergiya23@gmail.com)
+- [GitHub](https://github.com/Avv-2301)
+- Phone: [+91 6377608367](tel:+916377608367)
 
 ---
 
-## 🌐 Frontend Development
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="55" height="55"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>
-</p>
-
----
-
-## 🛠 Backend & Databases
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="60"/>
-</p>
-
----
-
-## ⚙ DevOps & Cloud
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="55" height="55"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avv-2301&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avv-2301&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avv-2301&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avv-2301&theme=tokyonight&margin-w=10&no-frame=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=avv-2301&theme=tokyo-night" />
-</p>
-
----
-
-# 🧠 Current Focus
-
-- 🔥 Building scalable **Microservices Architecture**
-- 📦 Event-driven systems using **Kafka**
-- ⚡ Performance optimization & caching with **Redis**
-- 🤖 Integrating AI features into full-stack applications
-
----
-
-# 🎯 2026 Goals
-
-- Master System Design
-- Build production-grade SaaS
-- Contribute to Open Source
-- Strengthen DevOps & Cloud Architecture skills
-
----
-
-<h3 align="center">
-  ⭐ If you like my work, consider following me!
-</h3>
+<p align="center">Thanks for stopping by.</p>
