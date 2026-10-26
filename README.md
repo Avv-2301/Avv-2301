@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Avv-2301">GitHub</a> ·
-  <a href="https://linkedin.com/in/akshatvijayvergiya">LinkedIn</a> ·
+  <a href="www.linkedin.com/in/akshat-vijayvergiya-3a3174210">LinkedIn</a> ·
   <a href="https://akshat-portfolio-flax.vercel.app/">Portfolio</a> ·
   <a href="mailto:peakshatvijayvergiya23@gmail.com">Email</a>
 </p>
@@ -20,8 +20,6 @@
 I’m a Full Stack Developer at AvalonTribe Infotech in Rajasthan, India. My experience spans software implementation, application support, and web development. I translate client requirements into product configurations, workflows, and technical solutions, and build React and TypeScript interfaces backed by REST APIs.
 
 My work has included secure API development, third-party and LLM integrations, performance improvements, and refactoring legacy code. I’m currently learning Generative AI and exploring how it can support practical application workflows.
-
-[Download my resume](assets/Akshat_Vijayvergiya_Resume_FullStackDeveloper.pdf)
 
 ## Tech stack
 
@@ -104,7 +102,7 @@ Madhya Pradesh, India · January 2024–May 2024
 
 Feel free to connect about full-stack development, web applications, or GenAI learning and projects.
 
-- [LinkedIn](www.linkedin.com/in/akshat-vijayvergiya-3a3174210/)
+- [LinkedIn](www.linkedin.com/in/akshat-vijayvergiya-3a3174210)
 - [Portfolio](https://akshat-portfolio-flax.vercel.app/)
 - [Email](mailto:peakshatvijayvergiya23@gmail.com)
 - [GitHub](https://github.com/Avv-2301)
