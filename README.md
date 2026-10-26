@@ -104,7 +104,7 @@ Madhya Pradesh, India · January 2024–May 2024
 
 Feel free to connect about full-stack development, web applications, or GenAI learning and projects.
 
-- [LinkedIn](https://linkedin.com/in/akshatvijayvergiya)
+- [LinkedIn](www.linkedin.com/in/akshat-vijayvergiya-3a3174210)
 - [Portfolio](https://akshat-portfolio-flax.vercel.app/)
 - [Email](mailto:peakshatvijayvergiya23@gmail.com)
 - [GitHub](https://github.com/Avv-2301)
